@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>India</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>INDIA(BHARAT)</h1>
+    <a href="allstates.html" target="_main"><img src="https://media.gettyimages.com/id/1147562559/vector/india-map.jpg?s=612x612&w=0&k=20&c=gUBVYIGMto_g4emD2hg7GC8fJexOW5PfGrTwjao13Q8=" alt="all states"/></a>
+    <h2><b>from top to bottom</b></h2>
+    <h3><B>NORTH</B></h3>
+<ol>
+  <a href="https://en.wikipedia.org/wiki/Ladakh">  <li>LADAKH</li></a>
+    <a href="https://en.wikipedia.org/wiki/Jammu_and_Kashmir_(union_territory)">   <li>JAMMU KASHMIR</li></a>
+        <a href="https://en.wikipedia.org/wiki/Himachal_Pradesh">  <li>HIMACHAL</li></a>
+            <a href="https://en.wikipedia.org/wiki/Punjab,_India">  <li>PUNJAB</li></a>
+                <a href="https://en.wikipedia.org/wiki/Chandigarh">  <li>CHANDIGARH</li></a>
+                    <a href="https://en.wikipedia.org/wiki/Uttarakhand">  <li>UTTARAKHAND</li></a>
+                        <a href="https://en.wikipedia.org/wiki/Haryana">  <li>HARYANA</li></a>
+                            <a href="https://en.wikipedia.org/wiki/Delhi">  <li>DELHI</li></a>
+    </ol>
+    <h3><B>WEST</B></h3>
+    <ol>
+        <a href="https://en.wikipedia.org/wiki/Rajasthan">  <li>RAJASTHAN</li></a>
+            <a href="https://en.wikipedia.org/wiki/Maharashtra">  <li>MAHARASTRA</li></a>
+                <a href="https://en.wikipedia.org/wiki/Gujarat">  <li>GUJARAT</li></a>
+                    <a href="https://en.wikipedia.org/wiki/Goa">  <li>GOA</li></a>
+                        <a href="https://en.wikipedia.org/wiki/Daman_and_Diu"> <li>DAMAN AND DIU</li></a>
+                            <a href="https://en.wikipedia.org/wiki/Dadra_and_Nagar_Haveli">  <li>DADAR AND NAGAR</li></a>
+    </ol>
+    <h3><B>CENTRAL</B></h3>
+<ol>
+    <a href="https://en.wikipedia.org/wiki/Uttar_Pradesh">   <li>UTTAR PRADESH</li></a>
+        <a href="https://en.wikipedia.org/wiki/Madhya_Pradesh">  <li>MADHYA PRADESH</li></a>
+            <a href="https://en.wikipedia.org/wiki/Bihar">  <li>BIHAR</li></a>
+                <a href="https://en.wikipedia.org/wiki/Jharkhand">  <li>JHARKHAND</li></a>
+                    <a href="https://en.wikipedia.org/wiki/Chhattisgarh">  <li>CHATTISGARAH</li></a>
+    </ol>
+    <h3><B>EAST</B></h3>
+<ol>
+    <a href="https://en.wikipedia.org/wiki/Sikkim">  <li>SIKKIM</li></a>
+        <a href="https://en.wikipedia.org/wiki/West_Bengal">  <li>BENGAL</li></a>
+            <a href="https://en.wikipedia.org/wiki/Odisha">  <li>ODISHA</li></a>
+    </ol>
+    <h3><B>NORTH EAST</B></h3>
+<ol>
+    <a href="https://en.wikipedia.org/wiki/Assam">  <li>ASSAM</li></a>
+        <a href="https://en.wikipedia.org/wiki/Arunachal_Pradesh">  <li>ARUNACHAL</li></a>
+            <a href="https://en.wikipedia.org/wiki/Meghalaya">  <li>MEGHALAYA</li></a>
+                <a href="https://en.wikipedia.org/wiki/Tripura">  <li>TRIPURA</li></a>
+                    <a href="https://en.wikipedia.org/wiki/Manipur">  <li>MANIPUR</li></a>
+                        <a href="https://en.wikipedia.org/wiki/Nagaland">  <li>NAGALAND</li></a>
+                            <a href="https://en.wikipedia.org/wiki/Mizoram">  <li>MIZORAM</li></a>
+    </ol>
+    <h3><B>SOUTH</B></h3>
+<ol>
+    <a href="https://en.wikipedia.org/wiki/Telangana"> <li>TELANGANA</li></a>
+        <a href="https://en.wikipedia.org/wiki/Andhra_Pradesh"> <li>ANDHRA</li></a>
+            <a href="https://en.wikipedia.org/wiki/Karnataka"> <li>KARNATAKA</li></a>
+                <a href="https://en.wikipedia.org/wiki/Kerala">  <li>KERALA</li></a>
+                    <a href="https://en.wikipedia.org/wiki/Lakshadweep">  <li>LAKSHADWEEP</li></a>
+                        <a href="https://en.wikipedia.org/wiki/Tamil_Nadu">  <li>TAMIL NADU</li></a>
+                            <a href="https://en.wikipedia.org/wiki/Puducherry_(union_territory)">  <li>PUDUCHERRY</li></a>
+                                <a href="https://en.wikipedia.org/wiki/Andaman_and_Nicobar_Islands">  <li>ANDAMAN AND NICOBAR</li></a>
+   
+
+</ol>
+<H2>NEIGHBOURS</H2>
+<table>
+    <tr>
+        <th>NORTH </th>
+        <TH>WEST     </TH>
+        <TH>SOUTH</TH>
+        <TH>EAST</TH>
+    </tr>
+    <TR>
+        <TH>CHINA    </TH>
+        <TH>PAKISTAN    </TH>
+        <TH>SRI LANKA    </TH>
+        <TH>BANGLADESH    </TH>
+
+    </TR>
+    <TR>
+        <TH>NEPAL     </TH>
+        <TH>AFGHANISTAN     </TH>
+        <TH>MALDIVES    </TH>
+        <TH>MYANMAR    </TH>
+
+    </TR>
+    <TR>
+        <TH>BHUTAN    </TH>
+        <TH></TH>
+        <TH></TH>
+        <TH></TH>
+    </TR>
+</table>
+    
+</body>
+</html>
